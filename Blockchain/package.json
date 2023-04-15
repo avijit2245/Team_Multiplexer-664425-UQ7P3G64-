@@ -1,0 +1,40 @@
+{
+  "name": "hackathon_reward",
+  "version": "1.0.0",
+  "description": "Reward for theAPp",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle tes".
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avijit2245/Team_Multiplexer-66425-UQ7P3G64.git"
+  },
+  "author": "Ronit kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avijit2245/Team_Multiplexer-66425-UQ7P3G64/issues"
+  },
+  "homepage": "https://github.com/avijit2245/Team_Multiplexer-66425-UQ7P3G64#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.3",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "babel-preset-stage-3": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "bootstrap": "^5.2.3",
+    "chai": "^4.3.7",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^3.1.0",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.4",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "web3": "^1.9.0"
+  }
+}
